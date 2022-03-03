@@ -1,1 +1,1 @@
-Shell scripting basics
+Basic scripting exercise task 1
