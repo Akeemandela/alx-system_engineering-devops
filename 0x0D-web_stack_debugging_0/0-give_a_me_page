@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #This code is used to debug the issue at hand
+echo "ServerName localhost" >> /etc/apache2.conf
 sudo service apache2 start
